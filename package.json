@@ -1,0 +1,11 @@
+{
+  "name": "site-tabelas",
+  "version": "1.0.0",
+  "description": "Exerc\u251c\u00a1cio pr\u251c\u00edtico para estudo de tabelas HTML5 e design responsivo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BillNobill",
+  "license": "MIT"
+}
